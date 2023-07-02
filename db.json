@@ -1,46 +1,36 @@
 {
   "movies": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "favorite": true,
-      "relasedate":"06/06/2020"
+      "name": "The Super Mario ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdBxiJs82_pClGdATYSV-8SOJrHdmlvTmWzwmXqc3lUv_Qa5T_HSzoKgUZS3eQFxs2To&usqp=CAU",
+      "favorite": false,
+      "type": "Comedy",
+      "relasedate": "05/04/2023",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "name": "Guy Ritchie's The Covenant",
+      "image": "https://pyxis.nymag.com/v1/imgs/735/5b7/995cbaf5e9287b2d79b5916c59194c0b0f-guy-ritchies-the-covenant.jpg",
       "favorite": true,
-      "relasedate":"06/06/2020"
+      "type": "Action",
+      "relasedate": "21/04/2023",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "favorite": true,
-      "relasedate":"06/06/2020"
+      "name": "Fast X",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncWnxtoVMdUHdO5RcD780Ipqe2Ql6c9_odeQTeFsHcFppVzZTJHznbIpfiMf-m2l554s&usqp=CAU",
+      "favorite": false,
+      "type": "Action",
+      "relasedate": "19/05/2023",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "favorite": true,
-      "relasedate":"06/06/2020"
-    },
-    {
-      "id": 5,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "favorite": true,
-      "relasedate":"06/06/2020"
-    },
-    {
-      "id": 6,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "favorite": true,
-      "relasedate":"06/06/2020"
+      "name": "The Black Demon",
+      "image": "https://www.voicesfromthebalcony.com/wp-content/uploads/2023/06/The-Black-Demon-Banner.jpg",
+      "favorite": false,
+      "type": "Action",
+      "relasedate": "28/04/2023",
+      "id": 4
     }
   ]
 }
